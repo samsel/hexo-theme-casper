@@ -1,6 +1,6 @@
 # config
-cover: assets/fadedBar.png
-logo: assets/icon.png
+cover: /assets/fadedBar.png
+logo: /assets/icon.png
 bio: ''
 
 # Content

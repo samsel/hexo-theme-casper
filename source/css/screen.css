@@ -543,6 +543,15 @@ margin on the iframe, cause it breaks stuff. */
    5. Single Post - When you click on an individual post
    ========================================================================== */
 
+/* Sams Styles */
+.post-template .explanation {
+    text-align: center;
+    color: #888;
+    background-color: #FFFFFE;
+    border: 1px solid #eee;
+    border-radius: 3px;
+}
+
 /* Insert some mad padding up in the header for better spacing */
 .post-template .post-header {
     padding: 60px 0;
@@ -1145,5 +1154,5 @@ pre .chunk {
 
 /* ==========================================================================
    End of file. Media queries should be the last thing here. Do not add stuff
-   below this point, or it will probably fuck everything up.
+   below this point.
    ========================================================================== */
